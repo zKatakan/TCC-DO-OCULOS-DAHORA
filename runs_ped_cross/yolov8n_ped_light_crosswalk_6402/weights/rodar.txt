@@ -1,0 +1,1 @@
+python3 onnx_sem_cross_audio_rpi.py --onnx best.onnx --source video_teste.mp4 --imgsz 640 --conf 0.45 --iou 0.6 --skip 10 --show --class-names ped_light_go,ped_light_red,ped_light_off,crosswalk --cooldown 2.5
